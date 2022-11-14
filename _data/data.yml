@@ -15,7 +15,7 @@ sidebar:
     email: fabrez@gmail.com
     phone: +39 3294092372
     timezone: Central Europe Timezone #America/Cancun Timezone
-    citizenship:
+    citizenship: Italian
     website: #blog.webjeda.com #do not add http://
     linkedin: FabRez #alandoe
     xing: #alandoe
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -59,18 +59,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As a researcher, I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, 
+      analysing data and extracting final conclusions. I would like to apply my analytical and problem-solving mindset in helping companies
+      in strategic analysis and in increasing the use of computational tools and new technologies
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Astronomy & Astrophysics
+        university: University of Rome, 'La Sapienza'
+        time: Oct 2013 - Oct 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,9 +76,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Astrophysics
+        university: University of Rome, 'La Sapienza'
+        time: Oct 2011 - Oct 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,46 +87,52 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+education:
+    title: Technical Skills
+    info:
+    - degree: Programming Language
+      university: Python, Fortran 2003, Markdown, HTML, Bash, SQL
+
+    - degree: Python packages
+      university: SKlearn, Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Regex
+
+    - degree: Data Analysis
+      university: Mathematica, Jupyter
+
+    - degree: Text Languages/Editors
+      univerisity: vim, LaTex, Atom, Visual Studio Code
+
+    - degree: Operating System
+      univerisity: Unix (Linux and Fedora), Microsoft Windows
+    
+    - degree: Software Development
+      univerisity: Git
+
+    - degree: HPC Environment
+      univerisity: SLURM, OpenMPI, Job Queque Management, Module
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Postdoctoral Researcher
+        time: Nov 2019 - Nov 2022
+        company: Leiden University, Leiden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Member of the Theoretical Cosmology Group, in  the Lorentz Institute for Theoretical Physics
+            - Member of the (EuCapt)[https://www.eucapt.org/] Consortium and 
+              of the [CosmoVerse](https://sites.google.com/sheffield.ac.uk/cosmoverse-seminars/home?pli=1) Collaboration
+            - Expertise in Bayesian Statistics, Machine Learning and Data Analysis
+            - Supervision and Mentoring of three Master Students (one of them currently pursuing a PhD)
+            - Lead Developer of the Python-Fortran Boltzmann-solver [EFTCAMB](http://eftcamb.org/codes/team.html) 
+            - Focused on developing machine learning algorithms to obtain meaningful insights in the construction of theoretical cosmological models.
+
+      - role: PhD Student
+        time: Oct 2016 - Oct 2019
+        company: University of Rome, 'La Sapienza', Rome
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+             - Member of the Instituto Nazionale di Fisica Nucleare (INFN) in the University of Rome, 'La Sapienza'
+             - Expertise in Bayesian Statistics and Monte Carlo Markov Chain inference for real and forecasted data
+             - Focused on testing theoretical cosmological models against current and forecasted astrophysical observations
 projects:
     title: Projects
     intro: >
@@ -160,9 +163,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Some of my most recent pubblications relevant for data analysis and machine learning. 
+      A full list can be found on [InspireHEP](https://inspirehep.net/authors/1937448?ui-citation-summary=true)
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -183,7 +185,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Javascript & jQuery
