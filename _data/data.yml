@@ -125,7 +125,7 @@ experiences:
     info:
       - role: Postdoctoral Researcher
         time: Nov 2019 - Nov 2022
-        company: Leiden University, Leiden
+        company: Lorentz Institute for Theoretical Physics, Leiden University, Leiden
         details: |
             - Member of the Theoretical Cosmology Group, in  the Lorentz Institute for Theoretical Physics
             - Member of the [EuCapt](https://www.eucapt.org) Consortium and 
@@ -142,32 +142,6 @@ experiences:
              - Member of the Instituto Nazionale di Fisica Nucleare (INFN) in the University of Rome, 'La Sapienza'
              - Expertise in Bayesian Statistics and Monte Carlo Markov Chain inference for real and forecasted data
              - Focused on testing theoretical cosmological models against current and forecasted astrophysical observations
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -175,20 +149,43 @@ publications:
       Some of my most recent pubblications relevant for data analysis and machine learning. 
       
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Harrison-Zel'dovich spectrum gets back?
+        link: "https://arxiv.org/abs/2210.09018"
+        authors: William Giarè, Fabrizio Renzi, Olga Mena, Eleonora Di Valentino, Alessandro Melchiorri
+        conference: arXiv:2210.09018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Climbing out of the shadows:Building the distance ladder with black hole imagesg
+        link: "https://arxiv.org/abs/2205.03396"
+        authors: Fabrizio Renzi and Matteo Martinelli
+        conference: "Phys.Dark Univ. 37 (2022) 101104"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The resilience of the Etherington–Hubble relation
+        link: "https://arxiv.org/abs/2112.05701"
+        authors: Fabrizio Renzi, Natalie B. Hogg, William Giarè
+        conference: "Mon.Not.Roy.Astron.Soc. 513 (2022) 4004"
+
+      - title: A look at the Hubble speed from first principles
+        link: "https://arxiv.org/abs/2011.10559"
+        authors: Fabrizio Renzi and Alessandra Silvestri
+        conference: arXiv:2011.10559
+
+      - title: Strongly lensed supernovae as a self-sufficient probe of the distance duality relation
+        link: "https://arxiv.org/abs/2010.04155"
+        authors: Fabrizio Renzi, Natalie B. Hogg, Matteo Martinelli, Savvas Nesseris
+        conference: Phys.Dark Univ. 32 (2021) 100824
+projects:
+    title: Awards and Certifications
+    info:
+      - role: Progetti di Avvio alla Ricerca
+        time: Nov 2017
+        company: University of Rome,  “La Sapienza”
+        details: |
+            [Solving inflationary gravitational wave and primordial magnetic field superimposition in CMB polarisation spectrum with future probes](https://www.uniroma1.it/it/pagina/archivio-finanziamenti)
+      - role: Scientific Computing with Python
+        time: Nov 2022
+        company: FreeCodeCamp.org
+        details: |
+            [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/scientific-computing-with-python-v7)
 
 skills:
     title: Skills &amp; Proficiency
