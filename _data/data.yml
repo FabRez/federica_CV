@@ -100,16 +100,16 @@ education:
       university: Mathematica, Jupyter
 
     - degree: Text Languages/Editors
-      univerisity: vim, LaTex, Atom, Visual Studio Code
+      university: vim, LaTex, Atom, Visual Studio Code
 
     - degree: Operating System
-      univerisity: Unix (Linux and Fedora), Microsoft Windows
+      university: Unix (Linux and Fedora), Microsoft Windows
     
     - degree: Software Development
-      univerisity: Git
+      university: Git
 
     - degree: HPC Environment
-      univerisity: SLURM, OpenMPI, Job Queque Management, Module
+      university: SLURM, OpenMPI, Job Queque Management, Module
 
 experiences:
     title: Experiences
