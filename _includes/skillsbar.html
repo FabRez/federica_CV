@@ -1,0 +1,17 @@
+{% assign skillsbar = site.data.data.sidebar.skillsbar %}
+{% if skillsbar %}
+  <div class="education-container container-block">
+
+    <h2 class="container-block-title">
+      {{ skillsbar.title }}
+    </h2>
+
+    {% for graduation in skillsbar.info %}
+    <div class="item">
+      <h4 class="degree">{{ graduation.skills }}</h4>
+      <h5 class="meta">{{ graduation.tools }}</h5>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div><!--//skillsbar-container-->
+{% endif %}
