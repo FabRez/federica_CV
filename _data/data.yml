@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Fabrizio Renzi, PhD
-    tagline: Data Scientist
+    tagline: Data Scientist/Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -110,7 +110,7 @@ education:
             - Bullet point
       - degree: BSc in Astrophysics
         university: University of Rome, 'La Sapienza'
-        time: Oct 2011 - Oct 2013
+        time: Oct 2010 - Oct 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -147,15 +147,14 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Some of my most recent pubblications relevant for data analysis and machine learning. 
-      
+      Some of my most recent publications relevant for data analysis and machine learning. A link to my complete list of publications can be found in the sidebar.
     papers:
       - title: Harrison-Zel'dovich spectrum gets back?
         link: "https://arxiv.org/abs/2210.09018"
         authors: William Giarè, Fabrizio Renzi, Olga Mena, Eleonora Di Valentino, Alessandro Melchiorri
         conference: arXiv:2210.09018
 
-      - title: Climbing out of the shadows:Building the distance ladder with black hole imagesg
+      - title: Climbing out of the shadows
         link: "https://arxiv.org/abs/2205.03396"
         authors: Fabrizio Renzi and Matteo Martinelli
         conference: "Phys.Dark Univ. 37 (2022) 101104"
@@ -170,10 +169,11 @@ publications:
         authors: Fabrizio Renzi and Alessandra Silvestri
         conference: arXiv:2011.10559
 
-      - title: Strongly lensed supernovae as a self-sufficient probe of the distance duality relation
+      - title: Strongly lensed SNIa as a self-sufficient probe of the distance duality relation
         link: "https://arxiv.org/abs/2010.04155"
         authors: Fabrizio Renzi, Natalie B. Hogg, Matteo Martinelli, Savvas Nesseris
         conference: Phys.Dark Univ. 32 (2021) 100824
+
 projects:
     title: Awards and Certifications
     info:
@@ -189,26 +189,21 @@ projects:
             [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/scientific-computing-with-python-v7)
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Soft Skills
 
     toolset:
-      - name: Python
-        level: 98%
+      - name: Leadership and Teamwork
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Problem Solving
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Strategic Thinking
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Project and Resource Management
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
