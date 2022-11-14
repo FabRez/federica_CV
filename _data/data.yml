@@ -58,27 +58,35 @@ sidebar:
     skillsbar:
       title: Technical Skills
       info:
-      - skills: Programming Language
+      - skill: Programming Language
         tools: Python, Fortran 2003, Markdown, HTML, Bash, SQL
 
-      - skills: Python packages
+      - skill: Python packages
         tools: SKlearn, Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Regex
 
-      - skills: Data Analysis
+      - skill: Data Analysis
         tools: Mathematica, Jupyter
 
-      - skills: Text Languages/Editors
+      - skill: Text Languages/Editors
         tools: vim, LaTex, Atom, Visual Studio Code
 
-      - skills: Operating System
+      - skill: Operating System
         tools: Unix (Linux and Fedora), Microsoft Windows
       
-      - skills: Software Development
+      - skill: Software Development
         tools: Git
 
-      - skills: HPC Environment
+      - skill: HPC Environment
         tools: SLURM, OpenMPI, Job Queque Management, Module
-      
+
+    communication:
+      title: Communication
+      info: 
+        - skill: WRITTEN
+        - summary: Expertise in showing results, writing reports and scientific articles. My publication list can be found on [InspireHEP](https://inspirehep.net/authors/1937448?ui-citation-summary=true)  
+
+        - skill: ORAL
+        - summary: Invited to give public talks and seminars in several international institutions and conferences. See for example [here](https://www.youtube.com/watch?v=-AmMJe2LUiQ&list=PL1CFLtxeIrQp_YaNnQJX7mYTyoTOkl1q5)
 career-profile:
     title: Career Profile
     summary: |
@@ -111,12 +119,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-
-      
-#title: Communication
-#    info: 
-#    - degree: Written
-#    - university: Expertise in showing results, writing reports and scientific articles. My publication list can be found on [InspireHEP](https://inspirehep.net/authors/1937448?ui-citation-summary=true)
 
 experiences:
     title: Experiences

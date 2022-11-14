@@ -1,0 +1,17 @@
+{% assign communication = site.data.data.sidebar.communication %}
+{% if communication %}
+  <div class="education-container container-block">
+
+    <h2 class="container-block-title">
+      {{ communication.title }}
+    </h2>
+
+    {% for graduation in communication.info %}
+    <div class="item">
+      <h4 class="degree">{{ graduation.skill }}</h4>
+      <h5 class="meta">{{ graduation.summary | markdownify }}</h5>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div><!--//communication-container-->
+{% endif %}
