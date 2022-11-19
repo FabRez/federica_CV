@@ -90,9 +90,9 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      As a scientist, I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, analysing data and extracting final conclusions. 
-      I have a dream where AI will drive a new era of technological improvement for humanity leading us to overcome our limits and solve problems that seem unsolvable nowadays. I want to employ
-      my skills in developing algorithms for data analysis and machine learning to contribute in shaping this future and see my dream realized. 
+      I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, analysing data and extracting final conclusions. 
+      I have a dream where AI will drive a new era of technological improvement for humanity leading us to overcome our limits and solve problems that seem unsolvable nowadays. 
+      I want to employ    my skills in developing algorithms for data analysis and machine learning to contribute in shaping this future and see my dream realized. 
       
 education:
     title: Education
