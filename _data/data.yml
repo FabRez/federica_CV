@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Fabrizio Renzi, PhD
-    tagline: Data Scientist/Analyst
+    name: Fabrizio Renzis
+    tagline: Theoretical Astrophysicist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fabrez.fr91@gmail.com
     phone: +39 3294092372
-    timezone: Central Europe Timezone #America/Cancun Timezone
-    citizenship: Italian
+    #timezone: Central Europe Timezone #America/Cancun Timezone
+    #citizenship: Italian
     website: #blog.webjeda.com #do not add http://
     linkedin: FabRez #alandoe
     xing: #alandoe
@@ -36,10 +36,10 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: C2
 
         - idiom: Spanish
-          level: Basic
+          level: A2
 
     interests:
       title: Interests
@@ -53,7 +53,7 @@ sidebar:
         - item: Cooking
           link:
 
-        - item: Finance
+        - item: Crypto/Stock Market
           link: 
     skillsbar:
       title: Technical Skills
@@ -90,10 +90,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      As a researcher, I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, 
-      analysing data and extracting final conclusions. I would like to apply my analytical and problem-solving mindset in helping companies
-      in strategic analysis and in increasing the use of computational tools and new technologies
-
+      As a scientist, I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, analysing data and extracting final conclusions. 
+      I have a dream where AI will drive a new era of technological improvement for humanity leading us to overcome our limits and solve problems that seem unsolvable nowadays. I want to employ
+      my skills in developing algorithms for data analysis and machine learning to contribute in shaping this future and see my dream realized. 
+      
 education:
     title: Education
     info:
@@ -154,11 +154,6 @@ publications:
         authors: William Giarè, Fabrizio Renzi, Olga Mena, Eleonora Di Valentino, Alessandro Melchiorri
         conference: arXiv:2210.09018
 
-      - title: Climbing out of the shadows
-        link: "https://arxiv.org/abs/2205.03396"
-        authors: Fabrizio Renzi and Matteo Martinelli
-        conference: "Phys.Dark Univ. 37 (2022) 101104"
-
       - title: The resilience of the Etherington–Hubble relation
         link: "https://arxiv.org/abs/2112.05701"
         authors: Fabrizio Renzi, Natalie B. Hogg, William Giarè
@@ -168,11 +163,6 @@ publications:
         link: "https://arxiv.org/abs/2011.10559"
         authors: Fabrizio Renzi and Alessandra Silvestri
         conference: arXiv:2011.10559
-
-      - title: Strongly lensed SNIa as a self-sufficient probe of the distance duality relation
-        link: "https://arxiv.org/abs/2010.04155"
-        authors: Fabrizio Renzi, Natalie B. Hogg, Matteo Martinelli, Savvas Nesseris
-        conference: Phys.Dark Univ. 32 (2021) 100824
 
 projects:
     title: Awards and Certifications
@@ -187,6 +177,12 @@ projects:
         company: FreeCodeCamp.org
         details: |
             [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/scientific-computing-with-python-v7)
+      - role: Data Analysis with Python
+        time: Nov 2022
+        company: FreeCodeCamp.org
+        details: |
+            [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/data-analysis-with-python-v7)
+            
 
 skills:
     title: Soft Skills
