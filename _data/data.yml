@@ -92,7 +92,7 @@ career-profile:
     summary: |
       I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, analysing data and extracting final conclusions. 
       I have a dream where AI will drive a new era of technological improvement for humanity leading us to overcome our limits and solve problems that seem unsolvable nowadays. 
-      I want to employ    my skills in developing algorithms for data analysis and machine learning to contribute in shaping this future and see my dream realized. 
+      I want to employ my skills in developing algorithms for data analysis and machine learning to contribute in shaping this future and see my dream realized. 
       
 education:
     title: Education
@@ -158,10 +158,11 @@ publications:
         authors: Fabrizio Renzi, Natalie B. Hogg, William Giarè
         conference: "Mon.Not.Roy.Astron.Soc. 513 (2022) 4004"
 
-      - title: A look at the Hubble speed from first principles
-        link: "https://arxiv.org/abs/2011.10559"
-        authors: Fabrizio Renzi and Alessandra Silvestri
-        conference: arXiv:2011.10559
+      - title: Climbing out of the shadows
+        link: "https://arxiv.org/abs/2205.03396"
+        authors: Fabrizio Renzi and Matteo Martinelli
+        conference: "Phys.Dark Univ. 37 (2022) 101104"
+        
 
 projects:
     title: Awards and Certifications
