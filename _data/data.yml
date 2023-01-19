@@ -182,7 +182,12 @@ projects:
         company: FreeCodeCamp.org
         details: |
             [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/data-analysis-with-python-v7)
-            
+      - role: Machine Learning with Python
+        time: Jan 2023
+        company: FreeCodeCamp.org
+        details: |
+            [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/machine-learning-with-python-v7)
+                  
 
 skills:
     title: Soft Skills
@@ -202,4 +207,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by Fabrizio Renzi from a template by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
