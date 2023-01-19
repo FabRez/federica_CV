@@ -148,6 +148,11 @@ publications:
     intro: |
       Some of my most recent publications relevant for data analysis and machine learning. A link to my complete list of publications can be found in the sidebar.
     papers:
+      - title: A novel model-marginalized cosmological bound on the QCD axion mass
+        link: "https://arxiv.org/abs/2212.11926v1"
+        authors: Eleonora Di Valentino, Stefano Gariazzo, William Giarè, Alessandro Melchiorri, Olga Mena, Fabrizio Renzi
+        conference: arXiv:2212.11926
+
       - title: Harrison-Zel'dovich spectrum gets back?
         link: "https://arxiv.org/abs/2210.09018"
         authors: William Giarè, Fabrizio Renzi, Olga Mena, Eleonora Di Valentino, Alessandro Melchiorri
@@ -162,7 +167,12 @@ publications:
         link: "https://arxiv.org/abs/2205.03396"
         authors: Fabrizio Renzi and Matteo Martinelli
         conference: "Phys.Dark Univ. 37 (2022) 101104"
-        
+
+      - title: Hubble speed from first principles
+        link: "https://arxiv.org/abs/2011.10559"
+        authors: Fabrizio Renzi and Alessandra Silvestri
+        conference: Soon appearing on PRD
+
 
 projects:
     title: Awards and Certifications
