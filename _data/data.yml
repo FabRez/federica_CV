@@ -15,7 +15,7 @@ sidebar:
     email: fabrez.fr91@gmail.com
     phone: +39 3294092372
     timezone: Leiden, NL #America/Cancun Timezone
-    #citizenship: Italian
+    #ciizenship: Italian
     website: #blog.webjeda.com #do not add http://
     linkedin: FabRez #alandoe
     xing: #alandoe
@@ -61,11 +61,14 @@ sidebar:
       - skill: Programming Language
         tools: Python, Fortran 2003, Markdown, HTML, Bash, SQL
 
-      - skill: Python packages
-        tools: SKlearn, Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Regex
+      - skill: Python for Data Analysis and Visualization
+        tools: Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Regex
 
-      - skill: Data Analysis
-        tools: Mathematica, Jupyter
+      - skill: Python for Machine Learning
+        tools: TensorFlow, Keras, Scikit-Learn
+
+      - skill: Data Analysis Software
+        tools: Mathematica, Jupyter, Colab
 
       - skill: Text Languages/Editors
         tools: vim, LaTex, Visual Studio Code
@@ -90,9 +93,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I push myself daily at the edge of knowledge to solve problems by designing and performing simulated experiments, analysing data and extracting final conclusions. 
-      I have a dream where AI will drive a new era of technological improvement for humanity leading us to overcome our limits and solve problems that seem unsolvable nowadays. 
-      I want to employ my skills in developing algorithms for data analysis and machine learning to contribute in shaping this future and see my dream realized. 
+      A results-driven data analyst and machine learning expert, combining technical skills, innovative thinking, ability to work effectively in a team, 
+      drive for innovation and strong communication skills to drive progress and solve complex problems in a fast-paced, high-pressure environment. 
+      With numerous publications in international journals and a deep understanding of cutting-edge algorithms, 
+      I bring a unique perspective to data analysis and simulation, shaping the future and delivering impactful results
       
 education:
     title: Education
