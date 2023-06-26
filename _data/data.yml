@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Fabrizio Renzi
-    tagline: Astrophysicist & Data Scientist
+    name: Federica di Furia
+    tagline: Accountant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: fabrez.fr91@gmail.com
-    phone: +39 3294092372
-    timezone: Leiden, NL #America/Cancun Timezone
+    email: federica.difuria@hotmail.it
+    phone: +39 340 349 5774
+    timezone: Rome, IT #America/Cancun Timezone
     #ciizenship: Italian
     website: #blog.webjeda.com #do not add http://
-    linkedin: FabRez #alandoe
+    linkedin: #FabRez #alandoe
     xing: #alandoe
-    github: FabRez
+    github: #FabRez
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,74 +36,61 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: C2
+          level: B1
 
         - idiom: Spanish
-          level: A2
+          level: B1
+
+        - idiom: German
+          level: A1
 
     interests:
       title: Interests
       info:
-        - item: Videogames
-          link:
-
-        - item: Snowboarding
-          link:
-
         - item: Cooking
           link:
 
-        - item: Crypto/Stock Market
-          link: 
+        - item: Painting
+          link:
+
+        - item: Traveling
+          link:
+
+        - item: Reading
+          link:
+
     skillsbar:
       title: Technical Skills
       info:
-      - skill: Programming Language
-        tools: Python, Fortran 2003, Markdown, HTML, Bash, SQL
-
-      - skill: Python for Data Analysis and Visualization
-        tools: Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Regex
-
-      - skill: Python for Machine Learning
-        tools: TensorFlow, Keras, Scikit-Learn
-
-      - skill: Data Analysis Software
-        tools: Mathematica, Jupyter, Colab
-
       - skill: Text Languages/Editors
-        tools: vim, LaTex, Visual Studio Code
+        tools: Microsoft Word, Excel, Power Point
 
       - skill: Operating System
-        tools: Unix (Linux & Fedora), Windows
-      
-      - skill: Software Development
-        tools: Git
+        tools: Windows
 
-      - skill: HPC Environment
-        tools: SLURM, OpenMPI
+      - skill: Accounting Management Software
+        tools: Profis, E-Solver, Meta,Protel,GP Dati Scrigno, Galileo DOS, DaneaEasyFatt.
 
     communication:
       title: Communication
-      info: 
+      info:
         - skill: WRITTEN
-        - summary: Expertise in showing results, writing reports and scientific articles. My publication list can be found on [InspireHEP](https://inspirehep.net/authors/1937448?ui-citation-summary=true)  
+        - summary: Expertise in showing results, writing reports and scientific articles.
 
         - skill: ORAL
-        - summary: Invited to give public talks and seminars in several international institutions and conferences. See for example [here](https://www.youtube.com/watch?v=-AmMJe2LUiQ&list=PL1CFLtxeIrQp_YaNnQJX7mYTyoTOkl1q5)
+        - summary: che ce scrivemo ?
 career-profile:
     title: About Me
     summary: |
-      A results-driven data analyst and machine learning expert, combining technical skills, innovative thinking, ability to work effectively in a team, 
-      drive for innovation and strong communication skills to drive progress and solve complex problems in a fast-paced, high-pressure environment. 
-      With numerous publications in international journals and a deep understanding of cutting-edge algorithms, 
-      I bring a unique perspective to data analysis and simulation, shaping the future and delivering impactful results
-      
+          A detail-oriented professional with expertise in accounting and financial management, 
+          adept at handling diverse responsibilities such as invoice management, reconciliation, cost control, 
+          and supplier payment, ensuring accurate and efficient financial operations
 education:
     title: Education
     info:
-      - degree: MSc in Astronomy & Astrophysics
+      - degree: Master's degree in International Relations
         university: University of Rome, 'La Sapienza'
-        time: Oct 2013 - Oct 2015
+        time: Oct 2011 - Oct 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -112,9 +99,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Astrophysics
+      - degree: Bachelor in Polical Science and International Relations
         university: University of Rome, 'La Sapienza'
-        time: Oct 2010 - Oct 2013
+        time: Oct 2007 - Oct 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -127,97 +114,88 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Postdoctoral Researcher
-        time: Nov 2019 - Nov 2022
-        company: Lorentz Institute for Theoretical Physics, Leiden University, Leiden
+      - role: Accountant
+        time: Mar 2022 - present
+        company: Lunedes S.p.a.
         details: |
-            - Member of the [EuCapt](https://www.eucapt.org) Consortium and 
-              of the [CosmoVerse](https://sites.google.com/sheffield.ac.uk/cosmoverse-seminars/home?pli=1) Collaboration
-            - Expertise in Bayesian Statistics, Machine Learning and Data Analysis
-            - Supervision and Mentoring of three Master Students (one currently pursuing a PhD)
-            - Organizer of the Theoretical Cosmology Seminar and Co-organizer of the Theoretical Cosmology ([THC](http://cosmology.nl/?post_type=tribe_events)) meeting
-            - Lead Developer of the Python-Fortran Boltzmann-solver [EFTCAMB](http://eftcamb.org/codes/team.html) 
-            - Focused on developing machine learning algorithms to obtain meaningful insights in the construction of theoretical cosmological models.
+            - Passive cycle: 
+               - registration of incoming invoices
+               - supplier payment control 
+               - management for 3 hospitality establishments.
+            - Bank and cash reconciliation
+            - Cost management control and reporting.
 
-      - role: PhD Student
-        time: Oct 2016 - Oct 2019
-        company: University of Rome, 'La Sapienza', Rome
+      - role: Accountant
+        time: Oct 2021 - Dec 2021
+        company: S&S food Srl
         details: |
-             - Member of the Instituto Nazionale di Fisica Nucleare (INFN) in the University of Rome, 'La Sapienza'
-             - Expertise in Bayesian Statistics and Monte Carlo Markov Chain inference for real and forecasted data
-             - Focused on testing theoretical cosmological models against current and forecasted astrophysical observations
+            - Support to the administrative-accounting office:
+            - Registration of incoming invoices.
+            - Management of warehouse order load.
+            - Economic and asset account reconciliations.
+            - Analytical accounting.
+            - Accounting entries and allocation for cost centers.
 
-publications:
-    title: Publications
-    intro: |
-      Some of my most recent publications relevant for data analysis and machine learning. A link to my complete list of publications can be found in the sidebar.
-    papers:
-      - title: A novel model-marginalized cosmological bound on the QCD axion mass
-        link: "https://arxiv.org/abs/2212.11926v1"
-        authors: Eleonora Di Valentino, Stefano Gariazzo, William Giarè, Alessandro Melchiorri, Olga Mena, Fabrizio Renzi
-        conference: arXiv:2212.11926
-
-      - title: Harrison-Zel'dovich spectrum gets back?
-        link: "https://arxiv.org/abs/2210.09018"
-        authors: William Giarè, Fabrizio Renzi, Olga Mena, Eleonora Di Valentino, Alessandro Melchiorri
-        conference: arXiv:2210.09018
-
-      - title: The resilience of the Etherington–Hubble relation
-        link: "https://arxiv.org/abs/2112.05701"
-        authors: Fabrizio Renzi, Natalie B. Hogg, William Giarè
-        conference: "Mon.Not.Roy.Astron.Soc. 513 (2022) 4004"
-
-      - title: Climbing out of the shadows
-        link: "https://arxiv.org/abs/2205.03396"
-        authors: Fabrizio Renzi and Matteo Martinelli
-        conference: "Phys.Dark Univ. 37 (2022) 101104"
-
-      - title: Hubble speed from first principles
-        link: "https://arxiv.org/abs/2011.10559"
-        authors: Fabrizio Renzi and Alessandra Silvestri
-        conference: Soon appearing on PRD
-
-
-projects:
-    title: Awards and Certifications
-    info:
-      - role: Progetti di Avvio alla Ricerca
-        time: Nov 2017
-        company: University of Rome,  “La Sapienza”
+      - role: Technical Administrative Assistant
+        time: Jul 2020 - Jun 2021
+        company: Istituto di Servizi per il Mercato Agricolo Alimentare (ISMEA)
         details: |
-            [Solving inflationary gravitational wave and primordial magnetic field superimposition in CMB polarisation spectrum with future probes](https://www.uniroma1.it/it/pagina/archivio-finanziamenti)
-      - role: Scientific Computing with Python
-        time: Nov 2022
-        company: FreeCodeCamp.org
+            - Support to the Accounting Office for Information Services and Investments in managing 
+              the disbursement of Agricultural and Fisheries financing bills of exchange.
+
+      - role: Accountant
+        time: Nov 2019 - Jun 2020
+        company: 47 Boutique Hotel
         details: |
-            [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/scientific-computing-with-python-v7)
-      - role: Data Analysis with Python
-        time: Nov 2022
-        company: FreeCodeCamp.org
+            - Control and reconciliation of accounting records.
+            - Registration and management of purchase/sales invoices.
+            - Accounting entries for personnel.
+            - Depreciation entries.
+            - Bank reconciliations.
+            - Management of provisions.
+            - Supplier and employee payment management.
+            - F24 management.
+      - role: Accountant
+        time: Apr 2018 - Sep 2019
+        company: Radisson Blu Es. Hotel
         details: |
-            [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/data-analysis-with-python-v7)
-      - role: Machine Learning with Python
-        time: Jan 2023
-        company: FreeCodeCamp.org
+            - Control and reconciliation of accounting records.
+            - Daily reconciliation of production.
+            - Registration of purchase invoices.
+            - Cash reconciliation.
+            - Accounting entries for personnel and cost allocation for analytics.
+            - Depreciation entries for assets.
+            - Inventory accounting and reconciliation of stock.
+            - Bank reconciliations.
+            - Management of provisions.
+            - Cash flow.
+            - Supplier, employee, and F24 payment management.
+
+      - role: Accountant
+        time: Sep 2016 - Sep 2017
+        company: Grand Hotel Plaza
         details: |
-            [Developer Certification, representing approximately 300 hours of coursework.](https://www.freecodecamp.org/certification/FabRez/machine-learning-with-python-v7)
-                  
+            - Control and reconciliation of accounting records.
+            - Verification of issued invoices and registration in accounting.
+            - Registration of purchase invoices with monthly VAT closure.
+            - Management of deposits and related reconciliation.
+            - Control and reconciliation of supplementary remuneration.
+            - Analytical accounting:
+                - Tracking of company costs.
 
-skills:
-    title: Soft Skills
 
-    toolset:
-      - name: Leadership and Teamwork
-        level: 80%
+      - role: Accountant
+        time: Apr 2015 - Apr 2016
+        company: 2G Telecommunication Srl
+        details: |
+            - Management and control of accounting.
+            - Cash/bank journal entries.
+            - Issuance of invoices, tax receipts, transport documents, and preparation of estimates.
+            - Data and document archiving.
+            - Control and management of correspondence.
+            - Customer-supplier relationship management.
+            - Administrative tasks.
 
-      - name: Problem Solving
-        level: 90%
-
-      - name: Strategic Thinking
-        level: 90%
-
-      - name: Project and Resource Management
-        level: 80%
 
 
 footer: >
