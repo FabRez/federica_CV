@@ -74,11 +74,10 @@ sidebar:
     communication:
       title: Communication
       info:
-        - skill: WRITTEN
-        - summary: Expertise in showing results, writing reports and scientific articles.
+        - skill:  ORAL & WRITTEN
+        - summary: Effective communicator with strong oral and written communication skills, 
+                   adept at conveying complex information clearly and concisely to diverse audiences.
 
-        - skill: ORAL
-        - summary: che ce scrivemo ?
 career-profile:
     title: About Me
     summary: |
